@@ -9,4 +9,4 @@ Hello, I'm Mark! 👋<br><br>Welcome to my GitHub profile!<br><br>I'm currently 
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/mark-dingli-84b1a3286/](https://www.linkedin.com/in/mark-dingli-84b1a3286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRcR2BSZpROS5avyXJKrPxQ%3D%3D)) 
-[![](https://visitcount.itsvg.in/api?id=markdingli18&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:markdingli5@gmail.com)
